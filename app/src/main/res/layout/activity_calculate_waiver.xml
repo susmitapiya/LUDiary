@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#DCDCDC"
+    tools:context="com.example.pinakbanik.spuai.Waiver">
+
+
+    <EditText
+        android:layout_marginTop="20dp"
+        android:id="@+id/ssc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Ssc Result"
+        android:inputType="numberDecimal"/>
+
+    <EditText
+        android:id="@+id/hsc"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Hsc Result"
+        android:inputType="numberDecimal"/>
+
+
+    <ImageView
+
+        android:layout_width="150dp"
+        android:layout_height="100dp"
+        android:src="@drawable/download"
+        android:paddingTop="80dp"
+        android:layout_gravity="center"
+        android:id="@+id/submitImage" />
+
+    <TextView
+        android:id="@+id/outputText"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Weaver"
+        android:paddingTop="100dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textSize="25dp"
+        android:textStyle="bold"/>
+
+</LinearLayout>

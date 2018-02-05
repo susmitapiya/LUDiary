@@ -1,0 +1,307 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffe7ca"
+    tools:context="layout.subpage33">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Faculty Members"
+        android:paddingRight="2dp"
+        android:paddingLeft="10dp"
+        android:textColor="#2A8144"
+        android:paddingTop="2dp"
+        android:textStyle="bold"
+        android:paddingBottom="0.5dp"
+        android:textSize="38px"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="PABX:+880-821-720303-4(Surma Tower)"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="25dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="30px"
+        />
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Faculty of Arts and Modern Language"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="42dp"
+        android:textStyle="bold"
+        android:paddingBottom="0.5dp"
+        android:textSize="35px"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Department of English"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:textColor="#2A8144"
+        android:textStyle="bold"
+        android:paddingLeft="2dp"
+        android:paddingTop="62dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="35px"
+        />
+
+
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Head of the Department"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="82dp"
+        android:textStyle="bold"
+        android:textColor="#3F87C7"
+        android:paddingBottom="0.5dp"
+        android:textSize="35px"
+        />
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Mr.Muhammad Nazrul Islam , Assistant professor"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="102dp"
+        android:textStyle="bold"
+        android:paddingBottom="0.5dp"
+        android:textSize="35px"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="01717326505,nazrul@lus.ac.bd"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="144dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="32px"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Assistant Professor"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="165dp"
+        android:textColor="#3F87C7"
+        android:textStyle="bold"
+        android:paddingBottom="0.5dp"
+        android:textSize="35px"
+        />
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Mr.Md.Rezaul Karim"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="186dp"
+        android:textStyle="bold"
+        android:paddingBottom="0.5dp"
+        android:textSize="35px"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="01711467396,tahrez2005@yahoo.com"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="207dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="32px"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Mr.Muhammad Nazrul Islam"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="227dp"
+        android:textStyle="bold"
+        android:paddingBottom="0.5dp"
+        android:textSize="35px"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="01717326505 , nazrul@lus.ac.bd"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="250dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="32px"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Mrs.Rumpa Sharmin"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="270dp"
+        android:textStyle="bold"
+        android:paddingBottom="0.5dp"
+        android:textSize="35px"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="rushmin.bd@gmail.com"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="290dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="32px"
+        />
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Senior Lecturer"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="310dp"
+        android:textStyle="bold"
+        android:textColor="#3F87C7"
+        android:paddingBottom="0.5dp"
+        android:textSize="35px"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Mrs.Manafath Jabin Haque"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="330dp"
+        android:textStyle="bold"
+        android:paddingBottom="0.5dp"
+        android:textSize="35px"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="01916100250,manafath@gmail.com"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="352dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="32px"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Mr.Mahbub Alam"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="372dp"
+        android:textStyle="bold"
+        android:paddingBottom="0.5dp"
+        android:textSize="35px"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="01717235903,mahabubalam518@gmail.com"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="392dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="32px"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Mr.Sheikh Md.Moniruzzaman"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="412dp"
+        android:textStyle="bold"
+        android:paddingBottom="0.5dp"
+        android:textSize="35px"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="01912764470 , sm_mzaman@yahoo.com"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="432dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="32px"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Ms.Shamima Akter"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="455dp"
+        android:textStyle="bold"
+        android:paddingBottom="0.5dp"
+        android:textSize="35px"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="01674764323 , aktershamima26@gmail.com"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="476dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="32px"
+        />
+
+</FrameLayout>

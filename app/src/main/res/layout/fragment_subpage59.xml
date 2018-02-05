@@ -1,0 +1,108 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffe7ca"
+    tools:context="layout.subpage59">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Public Universities"
+        android:textSize="38px"
+        android:paddingTop="3dp"
+        android:textAlignment="center"
+        android:textColor="#2A8144"
+        android:textStyle="bold"/>
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Bangabandhu Sheikh Mujibur Rahman Maritime University, Bangladesh"
+        android:paddingTop="32dp"
+        android:textSize="35px"
+        android:textAlignment="center"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Mirpur Dhaka-12
+Phone:01769721010,Fax:+8809606248248
+Email:regoffice@bsmrmu.edu.bd
+Website:www.bsmrmu.edu.bd"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="80dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="32px"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Bangabandhu Sheikh Mujib Medical University,Dhaka"
+        android:paddingTop="170dp"
+        android:textSize="35px"
+        android:textAlignment="center"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Shahbag,Dhaka-1000,Bangladesh, Phone:9661051-65,8614545, Email:bsmmu@bangla.net"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="218dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="32px"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Bangabandhu Sheikh Mujibur Rahaman Science and Technology University"
+        android:paddingTop="287dp"
+        android:textSize="35px"
+        android:textAlignment="center"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Gopalgonj,02-6682257,info@bsmrstu.edu.bd,
+        website:www.bsmrstu.edu.bd"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="340dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="32px"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Bangabandhu Sheikh Mujibur Rahaman Agricultural University"
+        android:paddingTop="399dp"
+        android:textSize="35px"
+        android:textAlignment="center"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Salna,Gazipur-1706,PABX-02-9205310,Email:ag@bau.edu.bd,website:www.bau.edu.bd"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="450dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="32px"
+        />
+</FrameLayout>

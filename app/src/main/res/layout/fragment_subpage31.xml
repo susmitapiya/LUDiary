@@ -1,0 +1,285 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffe7ca"
+    tools:context="layout.subpage31">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Office of thr IQAC"
+        android:paddingRight="2dp"
+        android:paddingLeft="10dp"
+        android:textColor="#3F87C7"
+        android:paddingTop="03dp"
+        android:textStyle="bold"
+        android:paddingBottom="0.5dp"
+        android:textSize="38px"
+        android:textAlignment="center"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Khadiza Khanam , office manager"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="32dp"
+        android:textStyle="bold"
+        android:paddingBottom="0.5dp"
+        android:textSize="35px"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="01911613677"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="52dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="30px"
+        />
+
+
+
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Shahrina Akhtar , Accountant"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="72dp"
+        android:textStyle="bold"
+        android:paddingBottom="0.5dp"
+        android:textSize="35px"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Mobile:01712330231"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="95dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="30px"
+        />
+
+
+
+
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Rangmahal Tower"
+        android:paddingRight="2dp"
+        android:paddingLeft="10dp"
+        android:textColor="#3F87C7"
+        android:paddingTop="120dp"
+        android:textStyle="bold"
+        android:paddingBottom="0.5dp"
+        android:textSize="38px"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="PABX:+880-821726405-6"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="152dp"
+        android:textStyle="bold"
+        android:paddingBottom="0.5dp"
+        android:textSize="35px"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Vice Chancellor"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="178dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="30px"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Registar"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="196dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="35px"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Finance and Accounts"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="217dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="30px"
+        />
+
+
+
+
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Examinations Section"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="239dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="35px"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Admission Office"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="261dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="30px"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Information Office"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="282dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="30px"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Library"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="303dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="30px"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Server Room"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="325dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="30px"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Office of the Board of Trustees"
+        android:paddingRight="2dp"
+        android:paddingLeft="10dp"
+        android:textColor="#3F87C7"
+        android:paddingTop="345dp"
+        android:textStyle="bold"
+        android:paddingBottom="0.5dp"
+        android:textSize="38px"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Brig Gen (retd.) Md.Nurul Huda,PBGM,BGBM , Advisor to Chairman"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="380dp"
+        android:textStyle="bold"
+        android:paddingBottom="0.5dp"
+        android:textSize="35px"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="01715346836"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="428dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="30px"
+        />
+
+
+
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Engr.Md.Lutfor Rahaman , Secretary"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="450dp"
+        android:textStyle="bold"
+        android:paddingBottom="0.5dp"
+        android:textSize="35px"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="01720589088,lutfor2006@yahoo.com"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="477dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="30px"
+        />
+
+
+</FrameLayout>

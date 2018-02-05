@@ -1,0 +1,280 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffe7ca"
+    tools:context="layout.subpage17">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Campus Development Committee"
+        android:textSize="42px"
+        android:paddingTop="2dp"
+        android:textAlignment="center"
+        android:textColor="#2A8144"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Dr. Syed Ragib Ali   ------ Chairman"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="40dp"
+        android:textStyle="bold"
+        android:paddingBottom="0.5dp"
+        android:textSize="28px"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Chairman, Board of Trustees"
+        android:paddingRight="2dp"
+        android:paddingLeft="10dp"
+        android:paddingTop="62dp"
+        android:textAlignment="center"
+        android:paddingBottom="0.5dp"
+        android:textSize="25px"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Professor Dr. Md. Qumruzzaman Chowdhury --  Co Chairman"
+        android:paddingRight="2dp"
+        android:paddingLeft="10dp"
+        android:textAlignment="center"
+        android:paddingTop="85dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="25px"
+        android:textStyle="bold"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Vice Chancellor"
+        android:paddingRight="2dp"
+        android:paddingLeft="10dp"
+        android:paddingTop="106dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="25px"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Mr. Syed Abdul Hye  ----  Member"
+        android:paddingTop="128dp"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="28px"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Nominee, Board of Trustees"
+        android:paddingRight="2dp"
+        android:paddingLeft="10dp"
+        android:paddingTop="152dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="25px"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Mrs. Sadika Jannath Choudhury  -----   Member"
+        android:paddingTop="174dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="28px"
+        android:paddingRight="2dp"
+        android:textStyle="bold"
+        android:paddingLeft="2dp"
+        android:textAlignment="center" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Nominee, Board of Trustees"
+        android:paddingRight="2dp"
+        android:paddingLeft="10dp"
+        android:paddingTop="195dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="25px"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Mr. Syed Abdul Hannan  -- Member"
+        android:paddingTop="220dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="25px"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:textAlignment="center" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Nominee, Board of Trustees"
+        android:paddingRight="2dp"
+        android:paddingLeft="10dp"
+        android:paddingTop="242dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="25px"
+        android:textAlignment="center"
+        />
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Brig Gen (retd.) Md. Nurul Huda, PBGM, BGBM --- Member"
+        android:paddingTop="261dp"
+        android:paddingBottom="0.5dp"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:textStyle="bold"
+        android:textSize="28px"
+        android:textAlignment="center"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Nominee, Board of Trustees"
+        android:paddingTop="299dp"
+        android:paddingBottom="0.5dp"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:textSize="28px"
+        android:textAlignment="center"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Engr. Md. Lutfor Rahman  -----   Member"
+        android:paddingTop="320dp"
+        android:paddingBottom="0.5dp"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:textStyle="bold"
+        android:textSize="28px"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Nominee, Board of Trustees"
+        android:paddingTop="340dp"
+        android:paddingBottom="0.5dp"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:textSize="25px"
+        android:textAlignment="center"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Prof. Dr. Md. Jahir Bin Alam ---  Member "
+        android:paddingTop="360dp"
+        android:paddingBottom="0.5dp"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:textStyle="bold"
+        android:textSize="28px"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Dept. of Civil Engineering, SUST"
+        android:paddingTop="380dp"
+        android:paddingBottom="0.5dp"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:textSize="25px"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Ar. Rajon Das   ---  Member"
+        android:paddingTop="400dp"
+        android:paddingBottom="0.5dp"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:textStyle="bold"
+        android:textSize="28px"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Dept. of Architecture, LU"
+        android:paddingTop="418dp"
+        android:paddingBottom="0.5dp"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:textSize="25px"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Mr. Md. Ibrahim  --- Member "
+        android:paddingTop="436dp"
+        android:paddingBottom="0.5dp"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:textStyle="bold"
+        android:textSize="28px"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Deputy Director, Finance and Accounting, LU"
+        android:paddingTop="457dp"
+        android:paddingBottom="0.5dp"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:textSize="25px"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Register -- Member Secretary"
+        android:paddingTop="476dp"
+        android:paddingBottom="0.5dp"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:textStyle="bold"
+        android:textSize="31px"
+        android:textAlignment="center"
+        />
+
+
+
+</FrameLayout>

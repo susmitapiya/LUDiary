@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<group android:checkableBehavior="single">
+    <item
+        android:id="@+id/nav_search"
+        android:icon="@drawable/home"
+        android:title="love" />
+
+    <item
+        android:id="@+id/nav_review"
+        android:icon="@drawable/user"
+        android:title="@string/nav_review" />
+
+
+    <item
+        android:id="@+id/nav_remind"
+        android:icon="@drawable/remind"
+        android:title="@string/nav_remind" />
+
+    <item
+        android:icon="@drawable/ic_apps"
+        android:id="@+id/waiver"
+        android:title="Admission Waiver LU" />
+    <item
+        android:id="@+id/inf"
+        android:icon="@drawable/ic_account_circle_black_24dp"
+        android:title="Faculty Members" />
+
+</group>
+
+
+    <item android:title="Other">
+        <menu>
+            <item
+                android:id="@+id/nav_admin"
+                android:icon="@drawable/admin"
+                android:title="@string/nav_admin" />
+
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/history"
+        android:icon="@drawable/ic_camera_black_24dp"
+        android:title="History Of LU" />
+
+
+</menu>

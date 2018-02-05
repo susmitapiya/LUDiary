@@ -1,0 +1,313 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffe7ca"
+    tools:context="layout.subpage48">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Department of Public Health"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="2dp"
+        android:textColor="#2A8144"
+        android:textStyle="bold"
+        android:paddingBottom="0.5dp"
+        android:textSize="38px"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Head of the Department"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:textColor="#3F87C7"
+        android:paddingTop="26dp"
+        android:textStyle="bold"
+        android:paddingBottom="0.5dp"
+        android:textSize="36px"
+        />
+
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Mr. KMA Shafique"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="48dp"
+        android:textStyle="bold"
+        android:paddingBottom="0.5dp"
+        android:textSize="35px"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="01674073059,kmashafique@yahoo.com"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="70dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="32px"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Associate Professor"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:textColor="#3F87C7"
+        android:paddingTop="90dp"
+        android:textStyle="bold"
+        android:paddingBottom="0.5dp"
+        android:textSize="36px"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Dr. Major(Retd.) Abdus Salam Chow. "
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="113dp"
+        android:textStyle="bold"
+        android:paddingBottom="0.5dp"
+        android:textSize="35px"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="01711902522"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="135dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="32px"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Senior Lecturer"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:textColor="#3F87C7"
+        android:paddingTop="152dp"
+        android:textStyle="bold"
+        android:paddingBottom="0.5dp"
+        android:textSize="36px"
+        />
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Mr. KMA Shafique"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="173dp"
+        android:textStyle="bold"
+        android:paddingBottom="0.5dp"
+        android:textSize="35px"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="01674073059,kmashafique@yahoo.com"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="193dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="32px"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text=" Adjunct Faculty Members "
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="212dp"
+        android:textStyle="bold"
+        android:textColor="#3F87C7"
+        android:paddingBottom="0.5dp"
+        android:textSize="38px"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Dr. Majid Miah"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="237dp"
+        android:textStyle="bold"
+        android:paddingBottom="0.5dp"
+        android:textSize="35px"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="01712824341"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="259dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="32px"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Dr. Omar Faruk"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="278dp"
+        android:textStyle="bold"
+        android:paddingBottom="0.5dp"
+        android:textSize="35px"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="017155151434, omar-frk@yahoo.com"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="303dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="32px"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Dr. Sadia Rahman Chow."
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="326dp"
+        android:textStyle="bold"
+        android:paddingBottom="0.5dp"
+        android:textSize="35px"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="01717064724"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="349dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="32px"
+        />
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Faculty of Social Science"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="371dp"
+        android:textStyle="bold"
+        android:paddingBottom="0.5dp"
+        android:textSize="38px"
+        />
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Department of Islamic Studies"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="398dp"
+        android:textColor="#2A8144"
+        android:textStyle="bold"
+        android:paddingBottom="0.5dp"
+        android:textSize="38px"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Head of the Department"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:textColor="#3F87C7"
+        android:paddingTop="423dp"
+        android:textStyle="bold"
+        android:paddingBottom="0.5dp"
+        android:textSize="36px"
+        />
+
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Prof. Md. Abu Kalam Chow."
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="450dp"
+        android:textStyle="bold"
+        android:paddingBottom="0.5dp"
+        android:textSize="35px"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="01715615800, a.k.chowdhury11@gmail.com"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="475dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="30px"
+        />
+
+
+
+
+
+
+</FrameLayout>

@@ -1,0 +1,311 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffe7ca"
+    tools:context="layout.subpage28">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Office of the Controller of Examinations"
+        android:paddingRight="2dp"
+        android:paddingLeft="10dp"
+        android:textColor="#3F87C7"
+        android:paddingTop="02dp"
+        android:textStyle="bold"
+        android:paddingBottom="0.5dp"
+        android:textSize="38px"
+        android:textAlignment="center"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Engr. Md. Lutfor Rahman , Controller of Exam. "
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="23dp"
+        android:textStyle="bold"
+        android:paddingBottom="0.5dp"
+        android:textSize="36px"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="01720589088, lutfor2006@yahoo.com"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="61dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="30px"
+        />
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Mr. M. Sarwar Hossain"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="77dp"
+        android:textStyle="bold"
+        android:paddingBottom="0.5dp"
+        android:textSize="35px"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="01711940680"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="96dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="30px"
+        />
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Mr. Suranjan Das"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="115dp"
+        android:textStyle="bold"
+        android:paddingBottom="0.5dp"
+        android:textSize="35px"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="01729099390 , suranjansylbd@gmail.com"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="138dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="30px"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Mr. Sonju Kumar Das"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="158dp"
+        android:textStyle="bold"
+        android:paddingBottom="0.5dp"
+        android:textSize="35px"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="01719191847 ,sonju-nip@yahoo.com"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="180dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="30px"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Mr. Aminur Rahman"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="200dp"
+        android:textStyle="bold"
+        android:paddingBottom="0.5dp"
+        android:textSize="35px"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="01719191847 ,sonju-nip@yahoo.com"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="223dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="30px"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Office of the Finance and Accounts"
+        android:paddingRight="2dp"
+        android:paddingLeft="10dp"
+        android:textColor="#3F87C7"
+        android:paddingTop="243dp"
+        android:textStyle="bold"
+        android:paddingBottom="0.5dp"
+        android:textSize="38px"
+        android:textAlignment="center"
+        />
+
+    <TextView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:text="MR. Mohammad Ibrahim"
+    android:textAlignment="center"
+    android:paddingRight="2dp"
+    android:paddingLeft="2dp"
+    android:paddingTop="268dp"
+    android:textStyle="bold"
+    android:paddingBottom="0.5dp"
+    android:textSize="35px"
+    />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="01817021449"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="289dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="30px"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Mr. Md. Omar Faruque Chow."
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="304dp"
+        android:textStyle="bold"
+        android:paddingBottom="0.5dp"
+        android:textSize="35px"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="01711461633, omorlu.syl@gmail.com"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="326dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="30px"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Mr. MD. Mahbubur Rahman "
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="345dp"
+        android:textStyle="bold"
+        android:paddingBottom="0.5dp"
+        android:textSize="35px"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="01712805138, mahbuburahman73@gmail.com"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="365dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="30px"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Mrs. Shah Jakia Yeasmin"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="384dp"
+        android:textStyle="bold"
+        android:paddingBottom="0.5dp"
+        android:textSize="35px"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="01712805138, mahbuburahman73@gmail.com"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="405dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="30px"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Md. Md. Mahiul Islam"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="423dp"
+        android:textStyle="bold"
+        android:paddingBottom="0.5dp"
+        android:textSize="35px"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="01721230991, mdmahiul04@gmail.com"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="445dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="30px"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Md. Monsur Ali"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="462dp"
+        android:textStyle="bold"
+        android:paddingBottom="0.5dp"
+        android:textSize="35px"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="01710043271 , monsurali203@yahoo.com"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="480dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="30px"
+        />
+
+
+</FrameLayout>

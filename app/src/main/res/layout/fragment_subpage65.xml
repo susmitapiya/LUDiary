@@ -1,0 +1,157 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffe7ca"
+    tools:context="layout.subpage65">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="PRIVATE UNIVERSITIES"
+        android:textSize="38px"
+        android:paddingTop="3dp"
+        android:textAlignment="center"
+        android:textColor="#2A8144"
+        android:textStyle="bold"/>
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Ishakha International University, 461,nilganj road,sholakia,kishoreganj"
+        android:paddingTop="27dp"
+        android:textSize="32px"
+        android:textAlignment="center"
+        android:textStyle="bold"/>
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Khwaja Yunuz Ali University, Enaetpur,chowhali,sirajgonj"
+        android:paddingTop="70dp"
+        android:textSize="32px"
+        android:textAlignment="center"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Leading University,Sylhet, VIP Road,taltola,sylhet"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="114dp"
+        android:paddingBottom="0.5dp"
+        android:textStyle="bold"
+        android:textSize="32px"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Manarat International University, plot#CEN16,road#106,gulshan,dhaka-1212"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="143dp"
+        android:paddingBottom="0.5dp"
+        android:textStyle="bold"
+        android:textSize="32px"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Metropolitan University,sylhet, al-hamla(7th floor),zindabazar,sylhet"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="192dp"
+        android:paddingBottom="0.5dp"
+        android:textStyle="bold"
+        android:textSize="32px"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="North East University Bangladesh, telihaor,sheikhgat,sylhet"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="235dp"
+        android:paddingBottom="0.5dp"
+        android:textStyle="bold"
+        android:textSize="32px"
+        />
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="North South University,Dhaka, plot#15,block-b,bashundhara,dhaka"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="278dp"
+        android:paddingBottom="0.5dp"
+        android:textStyle="bold"
+        android:textSize="32px"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="North Western University,Khulna, A.Mannan tower,236 m.a. bari road,sonadanga,khulna"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="320dp"
+        android:paddingBottom="0.5dp"
+        android:textStyle="bold"
+        android:textSize="32px"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Northern University Bangladesh, sher tower,holding#13,road#17,banani,dhaka-1213"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="364dp"
+        android:paddingBottom="0.5dp"
+        android:textStyle="bold"
+        android:textSize="32px"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Port City International University, 7-14,nikonja housing society,south khulshi,chittagonj"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="405dp"
+        android:paddingBottom="0.5dp"
+        android:textStyle="bold"
+        android:textSize="32px"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Premier University,Chittagonj, 1/A,O.R. nizam road,panchlaish,chittagonj"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="450dp"
+        android:paddingBottom="0.5dp"
+        android:textStyle="bold"
+        android:textSize="32px"
+        />
+
+</FrameLayout>

@@ -1,0 +1,266 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffe7ca"
+    tools:context="layout.subpage71">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Health care,uposhohar"
+        android:textSize="35px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="2dp"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Safeway hospital,mirjazangal"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="26dp"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text= "Popular diagnostic centre,mirboxtula"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="47dp"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Shaba poly clinic"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="69dp"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Important Service Providers,Sylhet"
+        android:textSize="35px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="90dp"
+        android:textAlignment="center"
+        android:textColor="#2A8144"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Continental courier service,zindabazar"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="114dp"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Divisional passport and visa office,sylhet"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="136dp"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Travel Agency,Sylhet"
+        android:textSize="35px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:textColor="#2A8144"
+        android:textStyle="bold"
+        android:paddingTop="158dp"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Latif Travels pvt,ltd."
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="180dp"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Sylhet tourism"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="200dp"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Ajwah Tour and Travels"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="220dp"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Al-Mansur Air Service"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="240dp"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Private Airlines,Sylhet"
+        android:textSize="35px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:textColor="#2A8144"
+        android:textStyle="bold"
+        android:paddingTop="263dp"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Novoair"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="285dp"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Regent Air"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="306dp"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="United Airlines"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="327dp"
+        android:textAlignment="center"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Us Bangla"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="348dp"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Bus Services,Sylhet"
+        android:textSize="35px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:textColor="#2A8144"
+        android:textStyle="bold"
+        android:paddingTop="368dp"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Saudia Bus Service"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="390dp"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Ananda Paribahan,Terminal Rd"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="411dp"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Hanif Enterprise"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="433dp"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Shyamoli Paribahan"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="454dp"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Green Line, Sohaighat"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="476dp"
+        android:textAlignment="center"
+        />
+
+</FrameLayout>

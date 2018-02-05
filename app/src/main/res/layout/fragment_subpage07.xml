@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.pinakbanik.tabledesing.MainActivity"
+    android:weightSum="3"
+    android:orientation="horizontal"
+    android:background="#ffe7ca"
+
+
+    >
+
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="0.8"
+        android:orientation="vertical"
+
+        >
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#ffe7ca"
+            android:text="academic"/>
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="*Date*"
+            android:layout_marginBottom="11dp"
+            android:id="@+id/button" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="07-17january"
+            android:layout_marginBottom="11dp"
+            android:textSize="10dp"
+            android:id="@+id/button" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="07january"
+            android:layout_marginBottom="11dp"
+            android:textSize="10dp"
+            android:id="@+id/button" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="18-26February"
+            android:layout_marginBottom="11dp"
+            android:textSize="10dp"
+            android:id="@+id/button" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="01-16March"
+            android:layout_marginBottom="11dp"
+            android:textSize="10dp"
+            android:id="@+id/button" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="11dp"
+            android:text="07,May"
+            android:textSize="10dp"
+            android:id="@+id/button" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="16May-08June  "
+            android:layout_marginBottom="11dp"
+            android:textSize="10dp"
+            android:id="@+id/button" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="9dp"
+            android:layout_marginBottom="7dp"
+            android:text="18-30August"
+            android:id="@+id/button" />
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="0.8"
+        android:orientation="vertical"
+
+        >
+
+        <Button
+            android:layout_width="match_parent"
+            android:background="#ffe7ca"
+            android:layout_height="wrap_content"
+            android:text="calendar"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="10dp"
+            android:layout_marginBottom="11dp"
+            android:text="*DAY*"
+            android:id="@+id/button" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="10dp"
+            android:layout_marginBottom="11dp"
+            android:text="Saturday-Tuesday"
+            android:id="@+id/button" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="10dp"
+            android:layout_marginBottom="11dp"
+            android:text="Saturday"
+            android:id="@+id/button" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="10dp"
+            android:text="Wednesday-Thursday"
+            android:layout_marginBottom="11dp"
+            android:id="@+id/button" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="10dp"
+            android:text="Wednesday-Thursday"
+            android:layout_marginBottom="11dp"
+            android:id="@+id/button" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="10dp"
+            android:text="Sunday"
+            android:layout_marginBottom="11dp"
+            android:id="@+id/button" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="10dp"
+            android:layout_marginBottom="11dp"
+            android:text="Tuesday-Thursday"
+            android:id="@+id/button" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="10dp"
+            android:text="Sunday"
+            android:layout_marginBottom="7dp"
+            android:id="@+id/button" />
+
+
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1.39"
+        android:orientation="vertical"
+
+        >
+        <Button
+            android:layout_width="match_parent"
+            android:background="#ffe7ca"
+            android:layout_height="wrap_content"
+            android:text="spring 2017"/>
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:text="*Event*"
+            android:layout_marginBottom="11dp"
+            android:id="@+id/button2" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Registration"
+            android:layout_marginBottom="11dp"
+            android:id="@+id/button2" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Spring semester begin"
+            android:layout_marginBottom="11dp"
+            android:textSize="10dp"
+            android:id="@+id/button2" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="REG:With late fine"
+            android:layout_marginBottom="11dp"
+            android:textSize="10dp"
+            android:id="@+id/button2" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Mid-term Examination"
+            android:layout_marginBottom="11dp"
+            android:textSize="10dp"
+            android:id="@+id/button2" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="11dp"
+            android:text="Addmission for summer semester begin "
+            android:textSize="10dp"
+            android:id="@+id/button2" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="last day of classes"
+            android:layout_marginBottom="11dp"
+            android:textSize="10dp"
+            android:id="@+id/button2" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="7dp"
+            android:text="semester final examination"
+            android:id="@+id/button2"
+            android:textSize="10dp"/>
+    </LinearLayout>
+
+
+</LinearLayout>

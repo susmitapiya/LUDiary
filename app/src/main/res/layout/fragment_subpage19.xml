@@ -1,0 +1,258 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffe7ca"
+    tools:context="layout.subpage19">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Development Committee"
+        android:textSize="42px"
+        android:paddingTop="2dp"
+        android:textAlignment="center"
+        android:textColor="#2A8144"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Department of Hotel Management"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="30dp"
+        android:textStyle="bold"
+        android:paddingBottom="0.5dp"
+        android:textSize="38px"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Prof. Md. Nazrul Islam   ------    Chairman"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="57dp"
+        android:textStyle="bold"
+        android:paddingBottom="0.5dp"
+        android:textSize="30px"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Head (In Charge) Dept. of Hotem Management"
+        android:paddingRight="2dp"
+        android:paddingLeft="10dp"
+        android:paddingTop="79dp"
+        android:textAlignment="center"
+        android:paddingBottom="0.5dp"
+        android:textSize="27px"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Prof. S.M.Ali Akkas      -----    Member"
+        android:paddingRight="2dp"
+        android:paddingLeft="10dp"
+        android:textAlignment="center"
+        android:paddingTop="99dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="30px"
+        android:textStyle="bold"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Dept. of Business Administration"
+        android:paddingRight="2dp"
+        android:paddingLeft="10dp"
+        android:paddingTop="119dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="27px"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Engr. Md. Lutfor Rahman      -----    Member"
+        android:paddingTop="140dp"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="30px"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Controller of Examinations (In Charge)"
+        android:paddingRight="2dp"
+        android:paddingLeft="10dp"
+        android:paddingTop="160dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="27px"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Department of Architecture"
+        android:paddingTop="185dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="39px"
+        android:paddingRight="2dp"
+        android:textStyle="bold"
+        android:paddingLeft="2dp"
+        android:textAlignment="center" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Engr. Md. Shawkat Jahan Chowdhury   ------    Chairman"
+        android:paddingRight="2dp"
+        android:paddingLeft="10dp"
+        android:paddingTop="220dp"
+        android:textStyle="bold"
+        android:paddingBottom="0.5dp"
+        android:textSize="30px"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Ass. Prof. and Head (Acting)"
+        android:paddingTop="260dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="27px"
+        android:paddingRight="2dp"
+
+        android:paddingLeft="2dp"
+        android:textAlignment="center" />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Ar. Rajon Das    ----   Member"
+        android:paddingTop="281dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="30px"
+        android:textStyle="bold"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:textAlignment="center" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Assistant Professor"
+        android:paddingRight="2dp"
+        android:paddingLeft="10dp"
+        android:paddingTop="303dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="27px"
+        android:textAlignment="center"
+        />
+
+
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Department of Civil Engineering"
+        android:paddingTop="327dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="38px"
+        android:paddingRight="2dp"
+        android:textStyle="bold"
+        android:paddingLeft="2dp"
+        android:textAlignment="center"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Engr. Abul Abrar Masrur Ahmed   ---Chairman"
+        android:paddingTop="361dp"
+        android:paddingBottom="0.5dp"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:textSize="30px"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Ass. Prof. and Head (Acting)"
+        android:paddingTop="384dp"
+        android:paddingBottom="0.5dp"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+
+        android:textSize="27px"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Prof. Dr. Md. Jahir Bin Alam   ---    Member"
+        android:paddingTop="407dp"
+        android:paddingBottom="0.5dp"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:textStyle="bold"
+        android:textSize="30px"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Advisor"
+        android:paddingTop="427dp"
+        android:paddingBottom="0.5dp"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:textSize="27px"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Engr. Md. Aminul Islam    -----    Member"
+        android:paddingTop="450dp"
+        android:paddingBottom="0.5dp"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:textStyle="bold"
+        android:textSize="30px"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text=" Assistant Professor "
+        android:paddingTop="472dp"
+        android:paddingBottom="0.5dp"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:textSize="27px"
+        android:textAlignment="center"
+        />
+
+
+</FrameLayout>

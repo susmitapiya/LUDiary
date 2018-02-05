@@ -1,0 +1,157 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffe7ca"
+    tools:context="layout.subpage66">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="PRIVATE UNIVERSITIES"
+        android:textSize="38px"
+        android:paddingTop="3dp"
+        android:textAlignment="center"
+        android:textColor="#2A8144"
+        android:textStyle="bold"/>
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="University of Science and Technology Chittagonj, foyez lack,chittagonj"
+        android:paddingTop="27dp"
+        android:textSize="32px"
+        android:textAlignment="center"
+        android:textStyle="bold"/>
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Presidency University, 11/A,road#92,gulshan-2,dhaka-1212"
+        android:paddingTop="73dp"
+        android:textSize="32px"
+        android:textAlignment="center"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Prime University, 2A/1,north east of darussalam road,mirpur-1,dhaka-1216"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="117dp"
+        android:paddingBottom="0.5dp"
+        android:textStyle="bold"
+        android:textSize="32px"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Primeasia University, HBR Tower,9banani,C/A,dhaka-1213"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="158dp"
+        android:paddingBottom="0.5dp"
+        android:textStyle="bold"
+        android:textSize="32px"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Rajshahi Science and Technology University,Natore,holding#112 dhaka road,bara harishpur"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="193dp"
+        android:paddingBottom="0.5dp"
+        android:textStyle="bold"
+        android:textSize="32px"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Ranada Prasad Shaha University, 25,sultan giasuddin road,sitalakhya,narayanganj"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="249dp"
+        android:paddingBottom="0.5dp"
+        android:textStyle="bold"
+        android:textSize="32px"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Shanto-Mariurm University of Creative Technology, house#01,road#14,sector#13,uttara,dhaka"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="290dp"
+        android:paddingBottom="0.5dp"
+        android:textStyle="bold"
+        android:textSize="32px"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Sheikh Fazilatunnesa Mujib University, Melandah,jamalpur"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="350dp"
+        android:paddingBottom="0.5dp"
+        android:textStyle="bold"
+        android:textSize="32px"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Sonagaon University, 29/1,kawran bazar,dhaka-1215"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="388dp"
+        android:paddingBottom="0.5dp"
+        android:textStyle="bold"
+        android:textSize="32px"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Southeast University, AR tower,24,kemal atatuark avenue,banani,dhaka"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="424dp"
+        android:paddingBottom="0.5dp"
+        android:textStyle="bold"
+        android:textSize="32px"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Stamford University,Bangladesh, 44(old-744),sat mosjid road,dhanmondi,dhaka"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="462dp"
+        android:paddingBottom="0.5dp"
+        android:textStyle="bold"
+        android:textSize="32px"
+        />
+
+
+
+</FrameLayout>

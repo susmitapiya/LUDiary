@@ -1,0 +1,253 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffe7ca"
+    tools:context="layout.subpage70">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Media and Newspapers,Sylhet"
+        android:textSize="35px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="2dp"
+        android:textAlignment="center"
+        android:textColor="#2A8144"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Bangladesh Betar(News ctrl)"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="26dp"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Bangladesh Television(news)"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="47dp"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Sylhet Press Club"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="69dp"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Shymal Sylhet"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="90dp"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Daily Jalalabhad"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="110dp"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Daily Sylhet Sanglap"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="130dp"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Daily Uttorpurbo"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="150dp"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Hospitals and Clinics,Sylhet"
+        android:textSize="35px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="175dp"
+        android:textAlignment="center"
+        android:textColor="#2A8144"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Osmani Medical College Hospital"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="197dp"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Sadar Hospital"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="217dp"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Lions Children Hospital"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="237dp"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Infectious Diease Hospital"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="257dp"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Private Hospital,Sylhet"
+        android:textSize="35px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="275dp"
+        android:textAlignment="center"
+        android:textColor="#2A8144"
+        android:textStyle="bold"/>
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Jalalabad Ragib Rabeya Medical College and Hospital"
+        android:textSize="31px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="298dp"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Sylhet Shishu Clinic,Upokanta R/A"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="328dp"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Mamoni Hospital,Kumarpara"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="347dp"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Noorjahan Poly Clinic,Dargah gate"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="368dp"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Central Poly Clinic,Hawapara"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="390dp"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Uposhom Poly Clinic,Mirboxtula"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="410dp"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Ayesha Medicare,Lamabazar"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="433dp"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Aroggo poly clinic,Munshipara"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="453dp"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Aziz Medical,Ambarkhana"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="475dp"
+        android:textAlignment="center"
+        />
+
+
+</FrameLayout>

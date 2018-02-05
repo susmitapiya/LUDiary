@@ -1,0 +1,116 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffe7ca"
+    tools:context="layout.subpage63">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="PRIVATE UNIVERSITIES"
+        android:textSize="38px"
+        android:paddingTop="3dp"
+        android:textAlignment="center"
+        android:textColor="#2A8144"
+        android:textStyle="bold"/>
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Ahsanullah University of Science and Technology, Plot No.-141-142,Tejgaon I/A,Dhaka-1215"
+        android:paddingTop="30dp"
+        android:textSize="33px"
+        android:textAlignment="center"
+        android:textStyle="bold"/>
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Bangladesh Open University, Board Bazar,Gazipur"
+        android:paddingTop="84dp"
+        android:textSize="33px"
+        android:textAlignment="center"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="American International University-Bangladesh, 83/B Kemal ataturk avenue,Road-4,banani,Dhaka-1213"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="115dp"
+        android:paddingBottom="0.5dp"
+        android:textStyle="bold"
+        android:textSize="33px"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="ASA University,Bangladesh, ASA tower,23/3,khilji road,shaymoli,mohammadpur"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="184dp"
+        android:paddingBottom="0.5dp"
+        android:textStyle="bold"
+        android:textSize="33px"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Asian University of Bangladesh ,House-25,road-5,sector-7,uttara model tower,dhaka-1207"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="234dp"
+        android:paddingBottom="0.5dp"
+        android:textStyle="bold"
+        android:textSize="33px"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Atish Dapankar University of Science and Technology, Faisal tower,27,gulshan north C/A,Dhaka-1212"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="299dp"
+        android:paddingBottom="0.5dp"
+        android:textStyle="bold"
+        android:textSize="33px"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Bangladesh Islamic University, Gazaria tower,89/12,R.K. Mission road,gopibag, Bishwa road,Dhaka-1203"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="362dp"
+        android:paddingBottom="0.5dp"
+        android:textStyle="bold"
+        android:textSize="33px"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Bangladesh University of Business and Technology, Dhaka commerce college road,Mirpur-2,dhaka-1216"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="431dp"
+        android:paddingBottom="0.5dp"
+        android:textStyle="bold"
+        android:textSize="33px"
+        />
+
+
+</FrameLayout>

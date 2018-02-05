@@ -1,0 +1,124 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffe7ca"
+    tools:context="layout.subpage55">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Theft"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="2dp"
+        android:textStyle="bold"
+        android:textColor="#3F87C7"
+        android:paddingBottom="0.5dp"
+        android:textSize="35px"
+        />
+
+
+    <TextView
+        android:id="@+id/textscroll2"
+        android:layout_width="wrap_content"
+        android:layout_height="500dp"
+        android:layout_below="@+id/textView2"
+        android:layout_centerHorizontal="true"
+        android:paddingBottom="5dp"
+        android:paddingLeft="3dp"
+        android:paddingRight="2dp"
+        android:paddingTop="22dp"
+        android:textSize="17dp"
+        android:scrollbars="vertical"
+        android:text="Misappropriation or removal of university property(e.g. books, examination scripts,stationeries,lab/electric or electronic equipments) without informing any lawful authority is an act of theft."/>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Mischief"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="124dp"
+        android:textStyle="bold"
+        android:textColor="#3F87C7"
+        android:paddingBottom="0.5dp"
+        android:textSize="35px"
+        />
+
+
+    <TextView
+        android:id="@+id/textscroll3"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/textView2"
+        android:layout_centerHorizontal="true"
+        android:paddingBottom="5dp"
+        android:paddingLeft="3dp"
+        android:paddingRight="2dp"
+        android:paddingTop="145dp"
+        android:scrollbars="vertical"
+        android:text="Tempering with or unauthorized access to use of any university equipment or other properties such as doors,locks,computers,telephones,is an act of mischief."
+        android:textSize="17dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Smoking"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="222dp"
+        android:textStyle="bold"
+        android:textColor="#3F87C7"
+        android:paddingBottom="0.5dp"
+        android:textSize="35px"
+        />
+
+
+    <TextView
+        android:id="@+id/textscroll4"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/textView2"
+        android:layout_centerHorizontal="true"
+        android:paddingBottom="5dp"
+        android:paddingLeft="3dp"
+        android:paddingRight="2dp"
+        android:paddingTop="244dp"
+        android:scrollbars="vertical"
+        android:text="The university would like to ensure a hiegenic environment, which is smoke free.All members of the campus community are expected to refrain from smoking.Smoking is forbidden in the university premises."
+        android:textSize="17dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Disciplinary Actions"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="345dp"
+        android:textStyle="bold"
+        android:textColor="#3F87C7"
+        android:paddingBottom="0.5dp"
+        android:textSize="35px"
+        />
+    <TextView
+        android:id="@+id/textscro6"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/textView2"
+        android:layout_centerHorizontal="true"
+        android:paddingBottom="5dp"
+        android:paddingLeft="3dp"
+        android:paddingRight="2dp"
+        android:paddingTop="365dp"
+        android:scrollbars="vertical"
+        android:text="The Disciplinary Committee(a statutory body according to private university act,2010) hereinafter called the committee has jurisdiction of talking actions regarding all offences listed in the code.The adjudication system is subject to the authority of the Disciplinary Committee."
+        android:textSize="16.890dp" />
+
+</FrameLayout>

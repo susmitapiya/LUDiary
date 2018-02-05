@@ -1,0 +1,80 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="layout.subpage3">
+
+    <!-- TODO: Update blank fragment layout -->
+        <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Profile of Leading University"
+        android:textSize="39px"
+        android:textAlignment="center"
+        android:textColor="#2A8144"
+        android:textStyle="bold"
+        android:paddingLeft="2dp"/>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="381dp"
+        android:layout_height="506dp"
+        android:text="The University at present offers the following programs: "
+        android:textSize="14.70dp"
+        android:paddingTop="50px"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Undergraduate Program"
+        android:paddingTop="45dp"
+        android:textSize="36px"  android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"  android:paddingRight="2dp"
+        android:text="B.A. (Hons) in English, BBA (hons), Bachelor of Hotel Management, Bachelor of Architecture, B. Sc. in Civil Engineering, B. Sc. (hons) in Computer Science and Engineering, B. Sc. (hons) in Electrical and Electronic and Engineering, LLB. (hons), B.A. (hons) in Islamic studies"
+        android:paddingTop="77dp"
+        android:paddingLeft="2dp"
+        android:textSize="32px"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Graduate Program"
+        android:paddingTop="200dp"
+        android:paddingLeft="2dp"
+        android:textSize="36px"  android:paddingRight="2dp"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"  android:paddingRight="2dp"
+        android:paddingTop="231dp"
+        android:paddingLeft="2dp"
+        android:text="M.A. in English (Preliminary and Final), MBA (Regular), MBA (Executive), Master of Public Health (MPH),LL.M. ,M.A. in Islamic Studies"
+        android:textSize="32px"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingTop="301dp"
+        android:paddingLeft="2dp"  android:paddingRight="2dp"
+        android:text="In addition to the above programs, LU has approval of the UGC to offer the following programs:"
+        android:textSize="35px"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingTop="376dp"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:text="B. Sc. in Computer Science and IT, B. Sc. (Hons) in Pharmacy, B. Sc. in Plantation Management,Bachelor (honers) in Economics, B.Ed in English Language Teaching (ELT), BA (Hons) in History of Muslim World, MA in History of Muslim World, M.Sc in Pharmacy"
+        android:textSize="33px"
+        />
+
+
+</FrameLayout>

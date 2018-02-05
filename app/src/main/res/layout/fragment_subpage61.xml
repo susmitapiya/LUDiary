@@ -1,0 +1,129 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffe7ca"
+    tools:context="layout.subpage61">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Chittagong University of Engineering and Technolog, Chittagong"
+        android:paddingTop="2dp"
+        android:textSize="35px"
+        android:textAlignment="center"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="phone:031-714920-22,Fax:031-714910, Email:vc@cuet.ac.bd,registrar@cuet.ac.bd, Website:www.cuet.ac.bd"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="47dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="32px"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Comilla University, Kotbari ,comilla"
+        android:paddingTop="109dp"
+        android:textSize="35px"
+        android:textAlignment="center"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="phone:01556-980998, Email:ahmzkarim@yahoo.com, Website:www.cou.ac.bdt"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="130dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="32px"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Dhaka University ,Dhaka"
+        android:paddingTop="190dp"
+        android:textSize="35px"
+        android:textAlignment="center"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Fax:+880-2-8615583, Email:duregstr@bangla.net, Website:www.du.ac.bd"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="210dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="32px"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Islamic University ,kushtia-jhenidah"
+        android:paddingTop="266dp"
+        android:textSize="35px"
+        android:textAlignment="center"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Phone:071-62600,Fax:88-071-54400, Email:vc.iu@kushtia.com,Website:www.iu.ac.bd"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="292dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="32px"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Jagannath University,chitta Ranjan Avenue,Dhaka"
+        android:paddingTop="337dp"
+        android:textSize="35px"
+        android:textAlignment="center"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="0521-66706,Fax:0521-64646, Email:n/a Website:www.brur.ac.bd"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="381dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="32px"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Jahangirnagar University, Savar,Dhaka"
+        android:paddingTop="424dp"
+        android:textSize="35px"
+        android:textAlignment="center"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Jessore University of Science and Technology ,churamonkanthi union,jassor"
+        android:paddingTop="452dp"
+        android:textSize="32px"
+        android:textAlignment="center"
+        android:textStyle="bold"/>
+</FrameLayout>

@@ -1,0 +1,108 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffe7ca"
+    tools:context="layout.subpage72">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Bus Services,Sylhet"
+        android:textSize="35px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:textColor="#2A8144"
+        android:textStyle="bold"
+        android:paddingTop="2dp"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="National Broadcasting Authority, Bangladesh Television, BTV News Room, Baishakhi, Jatiya Betar Bhaban, The Bangladesh Observer, The Daily Ittefaq, The Prothom Alo, The Daily Inqilab, The Bhorer Kagoj, The Daily Kalerkantho, The Daily Jugantor"
+        android:textSize="34px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="28dp"
+        android:textAlignment="center"
+        />
+
+
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Hazarat Shahjalal International Airport"
+        android:textSize="35px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:textColor="#2A8144"
+        android:textStyle="bold"
+        android:paddingTop="157dp"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Biman(Airport), Airport(PABX), Air Port Enquiry, Flight Enquiry, Customs(Airport), Stations Manager, Domestic Flight Enquiry"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="187dp"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Hotels, Dhaka"
+        android:textSize="35px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:textColor="#2A8144"
+        android:textStyle="bold"
+        android:paddingTop="252dp"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Sonargaon Hotel, Rposhi Bangla Hotel, Hotel Purbani International, Hotel Razmoni Isha Kha, Hotel the Capital, Hotel Redisson"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="281dp"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Hospitals and  Clinics,Dhaka"
+        android:textSize="35px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:textColor="#2A8144"
+        android:textStyle="bold"
+        android:paddingTop="340dp"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="United hospital ltd,Bangladesh popular diagnostic centre, Square Hospital ltd, Bangladesh cancer hospital, CMH, Dhaka medical college hospital, Holy family red crescent hospital, ICDDR'B, BBSMMU(IPGMR), Monwara hospital, Shamarita Nursing, Shishu Hospital, T.B.Hospital (Mohakhali)"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="360dp"
+        android:textAlignment="center"
+        />
+
+
+</FrameLayout>

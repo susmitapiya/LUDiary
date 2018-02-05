@@ -1,0 +1,156 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffe7ca"
+    tools:context="layout.subpage67">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="PRIVATE UNIVERSITIES"
+        android:textSize="38px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="3dp"
+        android:textAlignment="center"
+        android:textColor="#2A8144"
+        android:textStyle="bold"/>
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="State University of Bangladesh, 77 satmajid road,dhanmondi,dhaka-1205"
+        android:paddingTop="27dp"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:textAlignment="center"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Sylhet International University, Shamimabad Sylhet"
+        android:paddingTop="67dp"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:textAlignment="center"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="The Millennium University, Momenbag, Dhaka"
+        android:paddingTop="102dp"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:textAlignment="center"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="The Peoples University of Bangladesh, Mohammadpur, Dhaka"
+        android:paddingTop="130dp"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:textSize="32px"
+        android:textAlignment="center"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="The University of Asia Pecific, Dhanmondi, Dhaka"
+        android:paddingTop="172dp"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:textAlignment="center"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="United International University, Dhanmondi, Dhaka"
+        android:paddingTop="194dp"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:textAlignment="center"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="University of Development Alternative, Dhanmondi, Dhaka"
+        android:paddingTop="230dp"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:textAlignment="center"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="University of Science and Technology , Chittagong"
+        android:paddingTop="270dp"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:textAlignment="center"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="University of South Asia, Banani, Dhaka"
+        android:paddingTop="302dp"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:textAlignment="center"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Uttara University, Uttara Model Town, Dhaka"
+        android:paddingTop="330dp"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:textAlignment="center"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Victroria University of Bangladesh, Panthapath, Dhaka"
+        android:paddingTop="365dp"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:textAlignment="center"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="World University of Bangladesh, Panthapath, Dhaka"
+        android:paddingTop="408dp"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:textAlignment="center"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Z.H Sikder University of Science and Technology,Shariaitpur"
+        android:paddingTop="440dp"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:textAlignment="center"
+        android:textStyle="bold"/>
+
+</FrameLayout>

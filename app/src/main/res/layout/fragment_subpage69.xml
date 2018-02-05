@@ -1,0 +1,256 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#ffe7ca"
+    android:layout_height="match_parent"
+    tools:context="layout.subpage69">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Emergency Telephone Numbers,Sylhet"
+        android:textSize="35px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="2dp"
+        android:textAlignment="center"
+        android:textColor="#2A8144"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Hospital Emergency  -------   12120-29 "
+        android:paddingTop="27dp"
+        android:textSize="32px"
+        android:textAlignment="center"
+/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Police      --------------------    13514"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="47dp"
+        android:textSize="32px"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Jalalabad G  ------------------  13433"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="67dp"
+        android:textSize="32px"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Fire Service   ------------------ 13998"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="88dp"
+        android:textSize="32px"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Water Supply ------------------  18221"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="110dp"
+        android:textSize="32px"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="RAB-9, Sylhet"
+        android:textSize="35px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="132dp"
+        android:textAlignment="center"
+        android:textColor="#2A8144"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Director"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="154dp"
+        android:textSize="32px"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Deputy Director"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="174dp"
+        android:textSize="32px"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Captain"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="194dp"
+        android:textSize="32px"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Deputy Captain"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="214dp"
+        android:textSize="32px"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Sadar Duty Officer"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="236dp"
+        android:textSize="32px"
+        android:textAlignment="center"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Hotels,Sylhet"
+        android:textSize="35px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="258dp"
+        android:textAlignment="center"
+        android:textColor="#2A8144"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Hotel Rose View(5 star)"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="279dp"
+        android:textAlignment="center"
+     />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Hotel Metro International"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="299dp"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Hotel Supreme"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="319dp"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Porjaton Hotel"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="340dp"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Hotel Hiltown"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="360dp"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Hotel Polash"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="380dp"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Hotel Anurag"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="400dp"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Hotel Shaban"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="420dp"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Hotel Dargahgate"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="440dp"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Hotel Holy Side"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="460dp"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Hotel Velley Garden"
+        android:textSize="32px"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="480dp"
+        android:textAlignment="center"
+        />
+
+</FrameLayout>

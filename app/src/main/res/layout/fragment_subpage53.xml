@@ -1,0 +1,149 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffe7ca"
+    tools:context="layout.subpage53">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/textscroll"
+        android:layout_width="wrap_content"
+        android:layout_height="500dp"
+        android:scrollbars="vertical"
+        android:layout_below="@+id/textView2"
+        android:paddingTop="2dp"
+        android:layout_centerHorizontal="true"
+        android:text="Any offensive conduct, improper expression or language in communicating with faculty members/university officials fall under this category."
+        android:textSize="17dp"
+        android:paddingLeft="3dp"
+        android:paddingRight="2dp"
+        android:paddingBottom="5dp"
+        />
+
+
+
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Disruption"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="84dp"
+        android:textStyle="bold"
+        android:textColor="#3F87C7"
+        android:paddingBottom="0.5dp"
+        android:textSize="35px"
+        />
+
+
+    <TextView
+        android:id="@+id/textscroll2"
+        android:layout_width="wrap_content"
+        android:layout_height="500dp"
+        android:layout_below="@+id/textView2"
+        android:layout_centerHorizontal="true"
+        android:paddingBottom="5dp"
+        android:paddingLeft="3dp"
+        android:paddingRight="2dp"
+        android:paddingTop="107dp"
+        android:scrollbars="vertical"
+        android:text="Disruption is an actor a combination of actions by a single or a group of students, Who interfere with the smooth and regular functioning of the university."
+        android:textSize="17dp" />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Violence"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="195dp"
+        android:textStyle="bold"
+        android:textColor="#3F87C7"
+        android:paddingBottom="0.5dp"
+        android:textSize="35px"
+        />
+
+
+    <TextView
+        android:id="@+id/textscroll3"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/textView2"
+        android:layout_centerHorizontal="true"
+        android:paddingBottom="5dp"
+        android:paddingLeft="3dp"
+        android:paddingRight="2dp"
+        android:paddingTop="217dp"
+        android:scrollbars="vertical"
+        android:text="Posession any use of firearms, explosives, knives, lethal weapons etc. is an act of violence"
+        android:textSize="17dp" />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Damage to Property"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="260dp"
+        android:textStyle="bold"
+        android:textColor="#3F87C7"
+        android:paddingBottom="0.5dp"
+        android:textSize="35px"
+        />
+
+
+
+
+
+
+    <TextView
+        android:id="@+id/textscroll4"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/textView2"
+        android:layout_centerHorizontal="true"
+        android:text="Any damage to property caused by arson, willful act or reckless behavior is a gross violation of University disciplines."
+        android:paddingBottom="5dp"
+        android:paddingLeft="3dp"
+        android:paddingRight="2dp"
+        android:paddingTop="283dp"
+        android:scrollbars="vertical"
+        android:textSize="17dp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Physical Abuse"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="348dp"
+        android:textStyle="bold"
+        android:textColor="#3F87C7"
+        android:paddingBottom="0.5dp"
+        android:textSize="35px"
+        />
+
+    <TextView
+        android:id="@+id/textscroll5"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/textView2"
+        android:layout_centerHorizontal="true"
+        android:text="The university is committed to safety and security of all it's members. It seeks to maintain an environment free from acts of violence. Any act of physical violence such as beating, kicking and undesirable physical contact by any student of the university is an act of physical abuse."
+        android:paddingBottom="5dp"
+        android:paddingLeft="3dp"
+        android:paddingRight="2dp"
+        android:paddingTop="370dp"
+        android:scrollbars="vertical"
+        android:textSize="17dp" />
+
+</FrameLayout>

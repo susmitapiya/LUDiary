@@ -1,0 +1,134 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffe7ca"
+    tools:context="layout.subpage52">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Academic Dishonesty and Plagiarism"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="2dp"
+        android:textStyle="bold"
+        android:textColor="#3F87C7"
+        android:paddingBottom="0.5dp"
+        android:textSize="35px"
+        />
+
+
+
+
+        <TextView
+            android:id="@+id/textscroll"
+            android:layout_width="wrap_content"
+            android:layout_height="500dp"
+            android:scrollbars="vertical"
+            android:layout_below="@+id/textView2"
+            android:paddingTop="23dp"
+            android:layout_centerHorizontal="true"
+            android:text="Adoption of unfair means in examination,presentation of somebody elses work as own,preparing work to be used for some bodys works,knowingly furnishing false information about academic matters are the act of academic dishonesty."
+            android:textSize="17dp"
+            android:paddingLeft="3dp"
+            android:paddingRight="2dp"
+            android:paddingBottom="5dp"
+            />
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Sexual Harassment"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="144dp"
+        android:textStyle="bold"
+        android:textColor="#3F87C7"
+        android:paddingBottom="0.5dp"
+        android:textSize="35px"
+        />
+
+
+    <TextView
+        android:id="@+id/textscroll2"
+        android:layout_width="wrap_content"
+        android:layout_height="500dp"
+        android:layout_below="@+id/textView2"
+        android:layout_centerHorizontal="true"
+        android:paddingBottom="5dp"
+        android:paddingLeft="3dp"
+        android:paddingRight="2dp"
+        android:paddingTop="165dp"
+        android:scrollbars="vertical"
+        android:text="Any physical assault or any behavior or expression intended to tease or annoy members of the opposite sex or use of otherwise improper words or gesture is an act of sexual harassment.This will also include all sorts of sexual enticement made through any sort of digital Devices"
+        android:textSize="17dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Narcotic Offence"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="302dp"
+        android:textStyle="bold"
+        android:textColor="#3F87C7"
+        android:paddingBottom="0.5dp"
+        android:textSize="35px"
+        />
+
+
+    <TextView
+        android:id="@+id/textscroll3"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/textView2"
+        android:layout_centerHorizontal="true"
+        android:paddingBottom="5dp"
+        android:paddingLeft="3dp"
+        android:paddingRight="2dp"
+        android:paddingTop="324dp"
+        android:scrollbars="vertical"
+        android:text="Taking or including others to take drugs within the campus is an act of narcotic offences"
+        android:textSize="17dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Misconduct with Faculty Members and University Officials"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="370dp"
+        android:textStyle="bold"
+        android:textColor="#3F87C7"
+        android:paddingBottom="0.5dp"
+        android:textSize="35px"
+        />
+
+
+
+
+
+
+        <TextView
+        android:id="@+id/textscroll4"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/textView2"
+        android:layout_centerHorizontal="true"
+        android:paddingBottom="5dp"
+        android:paddingLeft="3dp"
+        android:paddingRight="2dp"
+        android:paddingTop="411dp"
+        android:scrollbars="vertical"
+        android:text="Interference or obstruction or disobedience to rightful directive of any University teacher/official given for discharging his/her official duty is an act of misconduct."
+        android:textSize="17dp" />
+
+</FrameLayout>

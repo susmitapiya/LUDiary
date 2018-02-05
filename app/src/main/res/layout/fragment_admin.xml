@@ -1,0 +1,154 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.pinakbanik.leadingapps.AdminFragment">
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_below="@+id/layy1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scrollbars="none"
+        >
+
+        <RelativeLayout
+            android:id="@+id/scry"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#FFF8DC">
+
+            <RelativeLayout
+                android:id="@+id/lay1"
+                android:layout_width="fill_parent"
+                android:layout_height="160dp"
+                android:background="@drawable/bac1"
+                android:orientation="horizontal"
+                android:weightSum="1">
+
+
+                <LinearLayout
+                    android:id="@+id/lay2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:gravity="center">
+
+                    <ImageView
+                        android:layout_width="80dp"
+                        android:layout_height="80dp"
+                        android:background="@drawable/ic_launcher" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/lay3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/lay2"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:gravity="center">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:textColor="#fafafa"
+                        android:text="Please Sign In"
+                        android:textSize="20dp"
+                        android:textStyle="bold" />
+
+
+                </LinearLayout>
+
+            </RelativeLayout>
+
+
+            <!-- A CardView that contains a TextView -->
+            <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/card_view"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/lay1"
+                card_view:cardCornerRadius="0dp">
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:id="@+id/rlay"
+                        android:layout_width="fill_parent"
+                        android:layout_height="match_parent">
+
+                        <EditText
+                            android:id="@+id/userName"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginRight="20dp"
+                            android:layout_marginLeft="20dp"
+                            android:textColorHint="@color/text_color"
+                            android:textColor="@color/black_semi_transparent"
+                            android:layout_alignParentRight="true"
+                            android:drawableRight="@drawable/ic_person_black_48dp"
+                            android:gravity="center"
+                            android:maxLength="10"
+                            android:hint="User Name"
+                            android:inputType="text"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/rlay2"
+                        android:layout_width="fill_parent"
+                        android:layout_height="match_parent"
+                        android:layout_below="@+id/rlay"
+                        >
+                        <EditText
+                            android:id="@+id/password"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginRight="20dp"
+                            android:layout_marginLeft="20dp"
+                            android:textColorHint="@color/text_color"
+                            android:textColor="@color/black_semi_transparent"
+                            android:maxLength="8"
+                            android:layout_alignParentRight="true"
+                            android:drawableRight="@drawable/ic_lock_black_48dp"
+                            android:gravity="center"
+                            android:hint="Password"
+                            android:inputType="textPassword"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/rlay3"
+                        android:layout_width="fill_parent"
+                        android:layout_height="match_parent"
+                        android:layout_below="@+id/rlay2"
+                        android:layout_marginTop="5dp"
+                        android:gravity="center">
+
+                        <Button
+                            android:id="@+id/signin"
+                            android:layout_width="200dp"
+                            android:layout_height="60dp"
+                            android:background="@color/success_stroke_color"
+                            android:text="Sign In"
+                            android:textColor="@color/white" />
+
+                    </LinearLayout>
+
+
+
+                </LinearLayout>
+
+            </android.support.v7.widget.CardView>
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+</FrameLayout >

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "627658369983",
+    "firebase_url": "https://lu-diary.firebaseio.com",
+    "project_id": "lu-diary",
+    "storage_bucket": "lu-diary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627658369983:android:b54f16dd85232c97",
+        "android_client_info": {
+          "package_name": "com.pinakbanik.leadingapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627658369983-rvutonee2cecbgdf47ijv3i18q19hqs5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOXy7bPZixoyakNIL4c4uJgqVwZAYJfvk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

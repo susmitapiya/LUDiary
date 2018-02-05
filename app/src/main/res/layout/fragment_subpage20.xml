@@ -1,0 +1,226 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffe7ca"
+    tools:context="layout.subpage20">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Development Committee"
+            android:textSize="42px"
+            android:paddingTop="2dp"
+            android:textAlignment="center"
+            android:textColor="#2A8144"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Department of Computer Science and Engineering"
+            android:textAlignment="center"
+            android:paddingRight="2dp"
+            android:paddingLeft="2dp"
+            android:paddingTop="30dp"
+            android:textStyle="bold"
+            android:paddingBottom="0.5dp"
+            android:textSize="38px"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Prof. Dr. Khandoker Md. Mominul Haque ----  Chairman"
+            android:textAlignment="center"
+            android:paddingRight="2dp"
+            android:paddingLeft="2dp"
+            android:paddingTop="85dp"
+            android:textStyle="bold"
+            android:paddingBottom="0.5dp"
+            android:textSize="30px"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Dean, Faculty of Mordern Science"
+            android:paddingRight="2dp"
+            android:paddingLeft="10dp"
+            android:paddingTop="121dp"
+            android:textAlignment="center"
+            android:paddingBottom="0.5dp"
+            android:textSize="27px"
+
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Mr. Md. Asaduzzaman Khan  -----    Member"
+            android:paddingRight="2dp"
+            android:paddingLeft="10dp"
+            android:textAlignment="center"
+            android:paddingTop="145dp"
+            android:paddingBottom="0.5dp"
+            android:textSize="30px"
+            android:textStyle="bold"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Assistant Professor and Head (Acting)"
+            android:paddingRight="2dp"
+            android:paddingLeft="10dp"
+            android:paddingTop="169dp"
+            android:paddingBottom="0.5dp"
+            android:textSize="27px"
+            android:textAlignment="center"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Mr. Minhazul Haque Bhuiyan      -----    Member"
+            android:paddingTop="192dp"
+            android:paddingRight="2dp"
+            android:paddingLeft="2dp"
+            android:paddingBottom="0.5dp"
+            android:textSize="30px"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Senior Lecturer"
+            android:paddingRight="2dp"
+            android:paddingLeft="10dp"
+            android:paddingTop="216dp"
+            android:paddingBottom="0.5dp"
+            android:textSize="27px"
+            android:textAlignment="center"
+            />
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Department of Electrical and Electronic Engineering"
+            android:paddingTop="245dp"
+            android:paddingBottom="0.5dp"
+            android:textSize="38px"
+            android:paddingRight="2dp"
+            android:textStyle="bold"
+            android:paddingLeft="2dp"
+            android:textAlignment="center" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Prof. Dr. Khandoker Md. Mominul Haque ----  Chairman"
+            android:paddingRight="2dp"
+            android:paddingLeft="10dp"
+            android:paddingTop="303dp"
+            android:textStyle="bold"
+            android:paddingBottom="0.5dp"
+            android:textSize="30px"
+            android:textAlignment="center"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Dean, Faculty of Mordern Science, Head, Dept. of EEE"
+            android:paddingTop="343dp"
+            android:paddingBottom="0.5dp"
+            android:textSize="27px"
+            android:paddingRight="2dp"
+
+            android:paddingLeft="2dp"
+            android:textAlignment="center" />
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Mrinal Kanti Dhar    ----   Member"
+            android:paddingTop="368dp"
+            android:paddingBottom="0.5dp"
+            android:textSize="30px"
+            android:textStyle="bold"
+            android:paddingRight="2dp"
+            android:paddingLeft="2dp"
+            android:textAlignment="center" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Senior Lecturer"
+            android:paddingRight="2dp"
+            android:paddingLeft="10dp"
+            android:paddingTop="390dp"
+            android:paddingBottom="0.5dp"
+            android:textSize="27px"
+            android:textAlignment="center"
+            />
+
+
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Mr. Rafiqul Islam    -----   Member"
+            android:paddingTop="410dp"
+            android:paddingBottom="0.5dp"
+            android:paddingRight="2dp"
+            android:paddingLeft="2dp"
+            android:textSize="30px"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Senior Lecturer"
+            android:paddingTop="432dp"
+            android:paddingBottom="0.5dp"
+            android:paddingRight="2dp"
+            android:paddingLeft="2dp"
+
+            android:textSize="27px"
+            android:textAlignment="center"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Engr. Md. Lutfor Rahman   ---    Member"
+            android:paddingTop="454dp"
+            android:paddingBottom="0.5dp"
+            android:paddingRight="2dp"
+            android:paddingLeft="2dp"
+            android:textStyle="bold"
+            android:textSize="30px"
+            android:textAlignment="center"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Controller of Examinations (In Charge)"
+            android:paddingTop="477dp"
+            android:paddingBottom="0.5dp"
+            android:paddingRight="2dp"
+            android:paddingLeft="2dp"
+            android:textSize="27px"
+            android:textAlignment="center"
+            />
+
+
+    </FrameLayout>
+
+

@@ -1,0 +1,45 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffe7ca"
+    tools:context="layout.subpage51">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="CODE OF CONDUCT FOR STUDENTS OF LU."
+        android:textSize="38px"
+        android:paddingTop="2dp"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:textAlignment="center"
+        android:textColor="#2A8144"
+        android:textStyle="bold"/>
+
+
+    <ScrollView
+        android:id="@+id/SCROLLER_ID"
+        android:layout_width="wrap_content"
+        android:layout_height="500dp"
+        android:scrollbars="vertical"
+        android:paddingTop="25dp"
+        android:fillViewport="true">
+
+        <TextView
+            android:id="@+id/textscroll"
+            android:layout_width="wrap_content"
+            android:layout_height="500dp"
+            android:scrollbars="vertical"
+            android:layout_below="@+id/textView2"
+            android:paddingTop="18dp"
+            android:layout_centerHorizontal="true"
+            android:text="An environment of peace and tranquility is a pre-condition to the pursuit of higher learning in a university.Leading university strives to maintain a healthy academic atmosphere in its campus.Students should read and follow the students Code Of Conduct, regularly attend the classes and related academic performance,maintain discipline,and keep the campus clean.In short, a student is expected to be a good citizen.The university does not prescribe any dress requirement,but students are expected to be dressed decently.The University has 'Leading University Code of Conduct for students' for the purpose of maintaining an environment free from indiscipline,disorder and violence.The University reserves the right to expel(temporary or permanent)any student from the university if university authority deems fit that such a course of action is essential.Following are the common types of indisciplinary activities done by the students which are subject to disciplinary or legal actions if nessary,according to university rules."
+            android:textSize="18dp"
+            android:paddingLeft="2dp"
+            android:paddingRight="2dp"
+            android:paddingBottom="5dp"
+            />
+    </ScrollView>
+
+</FrameLayout>

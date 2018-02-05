@@ -1,0 +1,126 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffe7ca"
+    tools:context="layout.subpage62">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Khulna Univerity, khulna-9208"
+        android:paddingTop="2dp"
+        android:textSize="32px"
+        android:textAlignment="center"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Khulna University Of Engineering and Technology, Fullbari gate,khulna-9203"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:textStyle="bold"
+        android:paddingTop="25dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="32px"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Mawlana Bhashani Science and Technology University, santosh,tangail"
+        android:paddingTop="66dp"
+        android:textSize="32px"
+        android:textAlignment="center"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="National University, board bazar,gazipur"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:textStyle="bold"
+        android:paddingTop="110dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="32px"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Noakhali Science and Technology University sonapur,noakhali-3802"
+        android:paddingTop="130dp"
+        android:textSize="32px"
+        android:textAlignment="center"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Pabna University of Science and Technology, Govt.TTC,rajapur,pabna
+"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:textStyle="bold"
+        android:paddingTop="175dp"
+        android:paddingBottom="0.5dp"
+        android:textSize="32px"
+        />
+    <TextView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:text="Patuakhali University of Science and Technology, Dumki,patuakhali-8602"
+    android:paddingTop="216dp"
+    android:textSize="32px"
+    android:textAlignment="center"
+    android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Rajshahi University, Motihar,rajshahi city corporation,rajshahi"
+        android:paddingTop="260dp"
+        android:textSize="32px"
+        android:textAlignment="center"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Rajshahi University of Engineering and Technology, P.O.#Kazla,rajshahi-6204"
+        android:paddingTop="300dp"
+        android:textSize="32px"
+        android:textAlignment="center"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Shahjalal University of Science and Technology ,Kumar gaon;P.O.3114,sylhet"
+        android:paddingTop="351dp"
+        android:textSize="32px"
+        android:textAlignment="center"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Sher-e-Bangla Agaricultural University, Sher-e-bangla nagar,dhaka-1207"
+        android:paddingTop="400dp"
+        android:textSize="32px"
+        android:textAlignment="center"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Sylhet Agariculrual University
+Taligor,sylhet-3100"
+        android:paddingTop="450dp"
+        android:textSize="32px"
+        android:textAlignment="center"
+        android:textStyle="bold"/>
+
+</FrameLayout>

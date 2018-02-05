@@ -1,0 +1,142 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffe7ca"
+    tools:context="layout.subpage64">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="PRIVATE UNIVERSITIES"
+        android:textSize="38px"
+        android:paddingTop="3dp"
+        android:textAlignment="center"
+        android:textColor="#2A8144"
+        android:textStyle="bold"/>
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Bangladesh University of Health Science, 125/1,Darus slalam,mirpur-1,Dhaka-1216"
+        android:paddingTop="27dp"
+        android:textSize="32px"
+        android:textAlignment="center"
+        android:textStyle="bold"/>
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="BGC Trust University Bangladesh, BGC Biddyanagar,Chandanish,chittagong"
+        android:paddingTop="70dp"
+        android:textSize="32px"
+        android:textAlignment="center"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="BGMEA University of Fashion and Technology, S R Tower,105,uttara model town,dhaka-1230"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="114dp"
+        android:paddingBottom="0.5dp"
+        android:textStyle="bold"
+        android:textSize="32px"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="BRAC University, 66,Mohakhali dhaka-1212"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="157dp"
+        android:paddingBottom="0.5dp"
+        android:textStyle="bold"
+        android:textSize="32px"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Britannia University, Padua Bazar,Biswaroad,comilla"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="180dp"
+        android:paddingBottom="0.5dp"
+        android:textStyle="bold"
+        android:textSize="32px"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="CCN University of Science and Technology, Chowdhury estate,ccn road,kotbari,P.O.:elahipur"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="225dp"
+        android:paddingBottom="0.5dp"
+        android:textStyle="bold"
+        android:textSize="32px"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Chittagong Independent University,Chittagonj independent university(CIU)minhaj complex"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="283dp"
+        android:paddingBottom="0.5dp"
+        android:textStyle="bold"
+        android:textSize="32px"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Central Womens University,6 Hatkhola road,dhaka-1203"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="330dp"
+        android:paddingBottom="0.5dp"
+        android:textStyle="bold"
+        android:textSize="32px"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="International Islamic University,Chittagong, 154/A College road,chittagonj-4203"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="371dp"
+        android:paddingBottom="0.5dp"
+        android:textStyle="bold"
+        android:textSize="32px"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="International University of Business Agariculture and Technology , 4,embankment drive road,sector-10, uttara model town,dhaka-1230"
+        android:textAlignment="center"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="416dp"
+        android:paddingBottom="0.5dp"
+        android:textStyle="bold"
+        android:textSize="32px"
+        />
+
+
+</FrameLayout>
